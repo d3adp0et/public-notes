@@ -1,4 +1,0 @@
-# Scanning and Enumeration
-
-- Kioptrix
-- 
